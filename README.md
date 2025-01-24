@@ -11,6 +11,7 @@ Playable Link:https://hassuu.itch.io/final-project
 https://github.com/user-attachments/assets/415de87f-d001-4b11-86e6-94980e7d2aab
 # Make-Up Project Development
 Bu kısımda ufak tefek geliştirmeler yapıldı particle systemle efekt ve animasyon yapıldı artık eşleştirme yapılırken objeler birbirine yakınlaşıp birleşecek ve sonrasında bir efekt oluşacak gösterimi şu şekilde;
+Playable Link:https://hassuu.itch.io/make-up-project
 
 https://github.com/user-attachments/assets/a1d19309-43b1-494d-8c65-33662389fef9
 
