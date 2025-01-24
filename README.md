@@ -7,11 +7,19 @@ https://github.com/user-attachments/assets/053eb3dd-7c83-4e3f-b9a7-45d254026f57
 # Final-Term-Game-Project
 Mid-Term kısmında yaptığımız projenin geri kalan etkileşimleri tamamlandı eşleştirme mekaniği,puan sistemi,zaman,yeniden başlatma,ekranda skor ve game over yazısı gibi yenilikler eklendi. Bir de bir playbable linkim var bu playable link ile web üzerinde preview gösterilebilir 
 Playable Link:https://hassuu.itch.io/final-project
-
-
 ![main](https://github.com/user-attachments/assets/676a0b3d-09ef-4121-b860-3738d4529433)
-
 https://github.com/user-attachments/assets/415de87f-d001-4b11-86e6-94980e7d2aab
+# Make-Up Project Development
+Bu kısımda ufak tefek geliştirmeler yapıldı particle systemle efekt ve animasyon yapıldı artık eşleştirme yapılırken objeler birbirine yakınlaşıp birleşecek ve sonrasında bir efekt oluşacak gösterimi şu şekilde;
+
+https://github.com/user-attachments/assets/a1d19309-43b1-494d-8c65-33662389fef9
+
+
+
+
+
+
+
 
 
 
